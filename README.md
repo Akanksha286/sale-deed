@@ -46,3 +46,10 @@ If you are using Composer:
 
 ```bash
 composer require dompdf/dompdf
+
+Update generate_pdf.php to:
+
+php
+Copy
+Edit
+require 'vendor/autoload.php';
